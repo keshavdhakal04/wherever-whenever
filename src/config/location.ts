@@ -7,8 +7,8 @@ export interface LocationConfig {
 }
 
 export const LOCATION: LocationConfig = {
-  latitude: 75.59911,
-  longitude: 45.44989,
+  latitude: 45.44989653524309,
+  longitude: -75.59911024328113,
   updatedAt: "November 17, 2026",
   label: "Here",
 };
